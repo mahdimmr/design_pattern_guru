@@ -1,4 +1,4 @@
-package refactoring_guru.builder.example.cars;
+package Builder.cars;
 
 public enum Type {
     CITY_CAR, SPORTS_CAR, SUV

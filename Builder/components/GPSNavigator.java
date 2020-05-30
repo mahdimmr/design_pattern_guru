@@ -1,4 +1,4 @@
-package refactoring_guru.builder.example.components;
+package Builder.components;
 
 /**
  * Just another feature of a car.

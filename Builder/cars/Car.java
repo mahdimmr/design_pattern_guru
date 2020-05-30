@@ -1,9 +1,9 @@
-package refactoring_guru.builder.example.cars;
+package Builder.cars;
 
-import refactoring_guru.builder.example.components.Engine;
-import refactoring_guru.builder.example.components.GPSNavigator;
-import refactoring_guru.builder.example.components.Transmission;
-import refactoring_guru.builder.example.components.TripComputer;
+import Builder.components.Engine;
+import Builder.components.GPSNavigator;
+import Builder.components.Transmission;
+import Builder.components.TripComputer;
 
 /**
  * Car is a product class.

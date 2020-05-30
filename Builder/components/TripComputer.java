@@ -1,6 +1,6 @@
-package refactoring_guru.builder.example.components;
+package Builder.components;
 
-import refactoring_guru.builder.example.cars.Car;
+import Builder.cars.Car;
 
 /**
  * Just another feature of a car.
